@@ -1,4 +1,6 @@
 ## Описание libmysyslog-text
+Этот репозиторий содержит плагин для библиотеки libmysyslog на языке Си - libmysyslog-text.
+libmysyslog-text - плагин для вывода данных в журнал в текстовой строки.
 
 ### libmysyslog_text.h
 
